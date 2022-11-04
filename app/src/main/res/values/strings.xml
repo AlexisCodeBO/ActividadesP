@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ActividadesP</string>
+    <string name="action_settings">Settings</string>
+    <string name="Hola">Hola Mundo!!!</string>
+    <string name="Mc">Mc</string>
+    <string name="Button2">BOTON 1</string>
+    <string name="Boton1">BOTON 2</string>
+    <string name="login">LOGIN</string>
+    <string name="Txtv_1">LOGIN</string>
+    <string name="Btn_1">INGRESAR</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Button_2">LOGIN2</string>
+    <string name="Btn_3">CALCULADORA</string>
+    <string name="login_failed">"Login Failed"</string>
+    <string name="Btn_2">INICIO</string>
+    <string name="Btn_4">LISTAS</string>
+    <string name="Txtv_2">Calculadora</string>
+    <string name="Payaso">Payaso</string>
+    <string name="Btn_6">+</string>
+    <string name="Btn_7">-</string>
+    <string name="Btn_8">*</string>
+    <string name="Btn_9">/</string>
+    <string name="Txtv_3">Resultado</string>
+    <string name="Txtv_4">TextView</string>
+    <string name="Hint_1">Primer Valor</string>
+    <string name="Hint_2">Segundo Valor</string>
+
+</resources>
